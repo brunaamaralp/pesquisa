@@ -1,0 +1,17 @@
+{
+  "name": "proposta-web-fullstack",
+  "description": "Aplicação completa para avaliação de serviços financeiros para clínicas médicas",
+  "repository": "https://github.com/user/repo",
+  "keywords": ["node", "express", "static"],
+  "env": {
+    "NODE_ENV": {
+      "description": "Environment for the application",
+      "value": "production"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}

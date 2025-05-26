@@ -1,0 +1,2 @@
+Servidor rodando em http://0.0.0.0:3000
+Visualize as avaliações em http://0.0.0.0:3000/
